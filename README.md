@@ -15,6 +15,10 @@ Provides features of:
 - Adding an edge that maximizes the algebraic connectivity by connecting the two most distant nodes in terms of shortest path distance
 - Logging actions and updates to the GUI window
 
+## Screenshot
+
+![Graph Visualization](image.png)
+
 ## How to Use
 
 1. Launch the Program
